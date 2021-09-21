@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,EACE,qBAAsB,CACtB,QAAS,CACT,SACF,CACA,KACE,sBACF,CACA,KACE,kCACF","file":"main.6166e4b9.chunk.css","sourcesContent":["* {\r\n  box-sizing: border-box;\r\n  margin: 0;\r\n  padding: 0;\r\n}\r\nhtml {\r\n  scroll-behavior: smooth;\r\n}\r\nbody {\r\n  font-family: \"Open Sans\", sans-serif;\r\n}\r\n"]}

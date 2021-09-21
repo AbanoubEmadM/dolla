@@ -1,0 +1,69 @@
+{
+    "srv" :[
+        {
+            "id":1,
+           "title":"Reduce Expenses",
+           "lightBg":false,
+           "lightText":false,
+           "lightTextDesc":true,
+           "desc":"We help reduce your fess and increase your overall revenue.",
+           "icon": "/images/svg-1.svg"
+        },
+        {
+            "id":2,
+           "title":"Virtual Offices",
+           "lightBg":false,
+           "lightText":false,
+           "lightTextDesc":true,
+           "desc":"You can access our platform online anywhere in yhe world.",
+           "icon": "/images/svg-3.svg"
+        },
+        {
+            "id":3,
+           "title":"Reduce Expenses",
+           "lightBg":false,
+           "lightText":false,
+           "lightTextDesc":true,
+           "desc":"We help reduce your fess and increase your overall revenue.",
+           "icon": "/images/svg-4.svg"
+        }
+    ],
+    "footer" :[
+        {
+            "id":1,
+            "title":"About us",
+            "link1":"How it works",
+            "link2":"Testimonials",
+            "link3":"Careers",
+            "link4":"Investors",
+            "link5":"Terms of Services"
+        },
+        {
+            "id":2,
+            "title":"Videos",
+            "link1":"Submit Video",
+            "link2":"Ambassadors",
+            "link3":"Agency",
+            "link4":"influncers",
+            "link5":"How to use"
+        },
+        {
+            "id":3,
+            "title":"Contact Us",
+            "link1":"Contact",
+            "link2":"Support",
+            "link3":"Destinations",
+            "link4":"Sponsorships",
+            "link5":"why Choose us?"
+        },
+        {
+            "id":4,
+            "title":"Social Media",
+            "link1":"Instagram",
+            "link2":"Facebook",
+            "link3":"Youtube",
+            "link4":"Twitter",
+            "link5":"linkedin"
+        }
+    ]
+}
